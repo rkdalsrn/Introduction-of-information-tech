@@ -1,0 +1,36 @@
+imageMode(CORNER);
+
+// main
+image(popfie, 720, 343);
+image(start, 902, 527);
+
+// select your pop
+background(43);
+image(selectpop, 685,93);
+image(vivid, 141, 271);
+image(pastel, 720, 271);
+image(mono, 1299, 271);
+
+// camera
+image(redback, 0, 0);
+image(home, 1795, 835);
+
+// loading
+image(blueback, 0, 0);
+image(eyes[i], 900, 385);
+image(loading, 842, 526);
+
+// select main
+image(yellowback, 0, 0);
+image(selectfav, 684, 117);
+image(home, 1795, 835);
+
+// send email
+background(43);
+image(sendmail, 654, 123);
+image(letter, 440, 244);
+image(reset, 1290, 251);
+image(send, 1370, 253);
+image(home, 1795, 835);
+
+// mail 입력창은 583, 260정도
